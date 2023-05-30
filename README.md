@@ -2,4 +2,4 @@
 
 Tech stack used : Java, Spirng boot, spring data JPA
 
-end points:
+End points:
