@@ -4,7 +4,7 @@ Tech stack used : Java, Spirng boot, spring data JPA
 
 End points:
 
-Get list of students : Methos: GET :  http://localhost:8080/api/v1/students
+Get list of students : Method: GET :  http://localhost:8080/api/v1/students
 
 Save/Add new student : http://localhost:8080/api/v1/students
 
